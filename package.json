@@ -1,0 +1,17 @@
+{
+  "name": "social-media-queries",
+  "version": "1.0.0",
+  "description": "For this assessment, you'll be writing a backend service that executes SQL queries to manipulate rows in a database for a social media application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.6.1"
+  }
+}
